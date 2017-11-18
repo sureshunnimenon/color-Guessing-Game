@@ -1,0 +1,32 @@
+.header{
+background-color:lightblue;
+text-align:center;
+font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color:#232323;
+}
+
+#message {
+  color: brown;
+}
+
+.square {
+  width:30%;
+  background-color:purple;
+  padding-bottom:30%;
+  float:left;
+  margin:1.66%;
+}
+
+#container {
+  max-width:600px;
+  margin:0 auto;
+}
+
+.stripe {
+  background: white;
+  text-align: center;
+  height: 30px;
+}
